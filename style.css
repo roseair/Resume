@@ -1,0 +1,48 @@
+
+
+header{
+font-family:Georgia, 'Times New Roman', Times, serif;
+letter-spacing:0.5px;
+}
+
+h1{
+  margin:0px;
+  text-transform: capitalize;
+}
+
+body{
+  margin:0px;
+  border-style:solid;
+  border-color:#d9e5ff;
+  border-width:3px; 
+  border-color:#d9e5ff #d9dbff;
+}
+
+section{
+margin:0px;
+  padding:10px;
+}
+
+h3{
+margin:0px;
+  padding:10px;
+}
+
+p{
+margin:0px;
+  padding:10px;
+}
+
+h4{
+margin:0px;
+  padding:10px;
+}
+
+ul{
+margin:0px;
+  padding:10px;
+}
+
+#Footer{
+margin-bottom:5px
+}
